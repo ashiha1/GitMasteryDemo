@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Example function to display a greeting
     function displayGreeting() {
         const header = document.querySelector("header h1");
-        header.textContent = "Hello, Git Professional!";
+        header.textContent = "Hello, Git Professionals!!!";
     }
 
     // Call the greeting function
